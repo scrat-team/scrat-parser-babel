@@ -1,6 +1,6 @@
-# fis-parser-babel
+# scrat-parser-babel
 
-A parser plugin for [fis](https://github.com/fis-dev/fis) to compile js/jsx files with [babel](https://babeljs.io/).
+A parser plugin for [scrat](http://scrat-team.github.io/) to compile js/jsx files with [babel](https://babeljs.io/).
 
 ## Usage
 

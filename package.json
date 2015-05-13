@@ -1,5 +1,5 @@
 {
-  "name": "fis-parser-babel",
+  "name": "scrat-parser-babel",
   "version": "0.0.1",
   "description": "a js/jsx parser plugin for fis",
   "main": "index.js",
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hinc/fis-parser-babel.git"
+    "url": "git+https://github.com/Hinc/scrat-parser-babel.git"
   },
   "keywords": [
     "fis",
+    "scrat",
     "parser",
     "babel",
     "jsx"
@@ -19,9 +20,9 @@
   "author": "Hinc <hincubus@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hinc/fis-parser-babel/issues"
+    "url": "https://github.com/Hinc/scrat-parser-babel/issues"
   },
-  "homepage": "https://github.com/Hinc/fis-parser-babel#readme",
+  "homepage": "https://github.com/Hinc/scrat-parser-babel#readme",
   "dependencies": {
     "babel-core": "^5.3.1"
   }
